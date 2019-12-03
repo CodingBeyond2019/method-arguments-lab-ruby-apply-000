@@ -8,9 +8,10 @@ end
 
 name = ""
 puts name 
-language = ""
-puts name
+
 
 introduction(nickie)
+language = ""
+puts name
 
 introduction_with_language(nickie, ruby)
